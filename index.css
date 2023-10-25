@@ -1,0 +1,98 @@
+body{
+	background-image: url("textura.jpg");
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-family: H2O Shadow;
+}
+
+h2{
+	text-align: center;
+}
+
+#vi-org{
+	background-color: lightgreen;
+	float: left;
+	width: 40%;
+	border: 10px solid white;
+	border-radius: 25px;
+}
+
+#viajes-h3{
+	font-family: PAPYRUS;
+	float: top;
+	padding-left: 10px;
+}
+
+#viajes{
+	float: left;
+}
+
+.img{
+	float: right;
+	padding-right:50px;
+}
+
+ul{
+	list-style-image: url(timon.png);
+	font-family:New Sailor;
+}
+
+#rutas-lugares{
+	background-color: lightgreen;
+	border: 10px solid white;
+	border-radius: 25px;
+	width: 50%;
+	float: right;
+}
+
+#rutas-h3{
+	font-family: PAPYRUS;
+	float: top;
+	padding-left: 10px;
+}
+
+#rutas{
+	float: left;
+}
+
+#tabla{
+	padding-left:38%;
+}
+
+table{
+	border: 10px solid white;
+	float: left;
+}
+
+th, td{
+	border: 0.5px solid white;
+}
+
+th{
+	color: white;
+	background-color: #000080;
+}
+
+td{
+	background-color: yellow;
+}
+
+#vela{
+	padding: 0;
+}
+
+#vela-img{
+	border-radius: 50%;
+}
+
+#footer{
+	float: bottom;
+}
+
+#salidas-especiales{
+	font-family: New Sailor;
+	font-size: 50px;
+}
